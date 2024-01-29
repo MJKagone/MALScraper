@@ -1,0 +1,1 @@
+The filtering options of MyAnimeList are quite primitive, so I wrote a simple web scraper to find the best manga series that have less than 6 volumes and output them into a text file along with links to their page.
